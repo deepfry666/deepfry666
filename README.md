@@ -9,9 +9,9 @@
 
 ### 我做过的小东西
 
-- 🎨 [**四季画布**](https://github.com/deepfry666/infinite-canvas-desktop-releases)：可以用 AI 画图、整理素材的画布软件（Windows）
+- 🎨 [**四季画布**](https://github.com/deepfry666/fourj-canvas)：可以用 AI 画图、整理素材的画布软件（Windows）
 - 📘 [**软件指南生成器**](https://github.com/deepfry666/manual-studio)：输入软件名，自动做出一份说明书（Mac）
-- ☀️ [**四季光伏工具箱**](https://github.com/deepfry666/SijiPVToolbox-Releases)：画光伏图纸时用的 AutoCAD 小插件
+- ☀️ [**四季光伏工具箱**](https://github.com/deepfry666/fourj-pv-toolbox)：画光伏图纸时用的 AutoCAD 小插件
 - 📊 [**额度监控**](https://github.com/deepfry666/cpa-upstream-account-monitor)：看 AI 接口还剩多少额度的小面板
 
 有问题或者建议，欢迎开个 Issue 告诉我 🙌
